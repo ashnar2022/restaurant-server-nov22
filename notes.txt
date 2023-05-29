@@ -1,0 +1,19 @@
+
+
+
+                             api hosting
+------------------------------------------------------------------------------
+
+1. create new repository in github
+2.  clone git repositort
+    cmd  ------>  git clone url
+
+3.install pakage.json - npm init -y
+4.create file db.json to store json data
+5.install json server and cors - npm i json-server cors
+
+    cors: to connect backend and frontend  
+    json-server: to run json file in node
+
+6.create file .gitignore - to prevent importing of node modules to github
+7.index.js :to run json
